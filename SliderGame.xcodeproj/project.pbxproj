@@ -11,6 +11,7 @@
 		51A3975D2B372A090046240B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A3975C2B372A090046240B /* ContentView.swift */; };
 		51A3975F2B372A0B0046240B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51A3975E2B372A0B0046240B /* Assets.xcassets */; };
 		51A397622B372A0B0046240B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51A397612B372A0B0046240B /* Preview Assets.xcassets */; };
+		51A397692B372BBB0046240B /* UISliderViewRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A397682B372BBB0046240B /* UISliderViewRepresentation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		51A3975C2B372A090046240B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		51A3975E2B372A0B0046240B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51A397612B372A0B0046240B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		51A397682B372BBB0046240B /* UISliderViewRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderViewRepresentation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				51A3975A2B372A090046240B /* SliderGameApp.swift */,
 				51A3975C2B372A090046240B /* ContentView.swift */,
+				51A397682B372BBB0046240B /* UISliderViewRepresentation.swift */,
 				51A3975E2B372A0B0046240B /* Assets.xcassets */,
 				51A397602B372A0B0046240B /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				51A3975D2B372A090046240B /* ContentView.swift in Sources */,
 				51A3975B2B372A090046240B /* SliderGameApp.swift in Sources */,
+				51A397692B372BBB0046240B /* UISliderViewRepresentation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
